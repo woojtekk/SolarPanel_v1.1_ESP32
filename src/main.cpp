@@ -17,11 +17,10 @@ DateTime now;
 // const char* ssid = "pinguin";
 // const char* password = "BulkaiMaslo@1";
  const char* ssid = "aaa";
- const char* password = "munia@12";
+ const char* password = "--------";
 
 
-//  const char* ssid = "pingwin";
-// const char* password = "Ten2Sor2Fizyka@1";
+
 bool FirstLoop=true;
 
 struct wifi{
