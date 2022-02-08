@@ -14,8 +14,7 @@ RTC_DS3231 rtc;
 WiFiUDP ntpUDP;
 NTPClient timeClient(ntpUDP,"europe.pool.ntp.org", 3600*2, 60000);
 DateTime now;
-// const char* ssid = "pinguin";
-// const char* password = "BulkaiMaslo@1";
+
  const char* ssid = "aaa";
  const char* password = "--------";
 
